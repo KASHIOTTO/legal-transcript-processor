@@ -105,11 +105,11 @@ docker-compose run app view-logs
 ```
 
 # Trancscript ex. w/ labels
-[00:00:02] John Smith: Let's begin the meeting regarding the contract for ACME Corp.
-[00:00:10] Jane Doe: Yes, the agreed price is $250,000, payable over 12 months.
-[00:00:18] John Smith: ACME will deliver the first batch on October 1, 2025.
+[00:00:02] John Smith: Let's begin the meeting regarding the contract for ACME Corp. \
+[00:00:10] Jane Doe: Yes, the agreed price is $250,000, payable over 12 months. \
+[00:00:18] John Smith: ACME will deliver the first batch on October 1, 2025. \
 
 # w/out labels
-Let's begin the meeting regarding the contract for ACME Corp.
-Yes, the agreed price is $250,000, payable over 12 months.
+Let's begin the meeting regarding the contract for ACME Corp. \
+Yes, the agreed price is $250,000, payable over 12 months. \
 ACME will deliver the first batch on October 1, 2025.
