@@ -1,4 +1,4 @@
-# On-Premise AI Legal Transcript Processor
+# **Practice/Not Ready for Use (Python and NLP Libraries)** On-Premise AI Legal Transcript Processor
 
 ## Overview
 - Processes meeting transcripts with or without speaker labels or timestamps
