@@ -1,4 +1,4 @@
-# **Practice Only** (Python and NLP Libraries) On-Premise AI Legal Transcript Processor
+# <u>Practice Only</u> (Python and NLP Libraries) On-Premise AI Legal Transcript Processor
 
 ## Overview
 - Processes meeting transcripts with or without speaker labels or timestamps
