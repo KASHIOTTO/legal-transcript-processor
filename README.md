@@ -44,19 +44,19 @@ Hypothetical use cases are: **law firms** and **legal professionals** who's prof
 ## Structure
 
 .
-├── auth.py # Authentication & RBAC
-├── users.db # SQLite database for users
-├── encryption.py # AES-256 encryption utilities
-├── logger.py # Audit logging
-├── nlp.py # NLP preprocessing with spaCy
-├── llm_inference.py # Local LLM integration
-├── gavel_api.py # Gavel.com API integration
-├── structured_data/ # JSON structured data outputs
-├── cli.py # Command line interface
-├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
+├── auth.py # Authentication & RBAC \
+├── users.db # SQLite database for users \
+├── encryption.py # AES-256 encryption utilities \
+├── logger.py # Audit logging \
+├── nlp.py # NLP preprocessing with spaCy \
+├── llm_inference.py # Local LLM integration \
+├── gavel_api.py # Gavel.com API integration \
+├── structured_data/ # JSON structured data outputs \
+├── cli.py # Command line interface \
+├── requirements.txt \
+├── Dockerfile \
+├── docker-compose.yml \
+└── README.md 
 
 ---
 
