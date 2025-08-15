@@ -1,0 +1,12 @@
+{
+    "patterns": [
+        {
+            "label": "MOTION",
+            "pattern": [{"LOWER": "motion"}, {"LOWER": "to"}, {"IS_ALPHA": true}]
+        },
+        {
+            "label": "STATUTE",
+            "pattern": [{"TEXT": {"REGEX": "\\d+ U\\.S\\.C\\."}}]
+        }    
+    ]
+}

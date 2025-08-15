@@ -1,0 +1,7 @@
+{
+    "transcript_id": "example",
+    "entities": { "PERSON": ["Alice", "Bob"] },
+    "clauses": [ { "subject": "Alice", "verb": "shall", "object": "submit brief" } ],
+    "dialog": [ { "speaker": "Judge", "text": "Proceed." } ],
+    "key_issues": "Breach of contract"
+}
